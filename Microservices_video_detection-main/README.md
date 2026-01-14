@@ -1,5 +1,7 @@
 # Microservices Video Detection System
 
+<img width="1576" height="784" alt="image" src="https://github.com/user-attachments/assets/ac43a9a3-7a96-4a60-8a2a-80fd24f003a9" />
+
 ## Обзор проекта
 
 **Microservices Video Detection System** — распределённая система детекции объектов на видео с использованием YOLO модели. Система построена по микросервисной архитектуре с использованием паттерна Transactional Outbox для обеспечения надёжности и отказоустойчивости.
@@ -1397,3 +1399,4 @@ curl "http://localhost:8080/api/status/all"
 6. **Безопасность** — аутентификация и авторизация
 7. **Кэширование** — Redis для кэширования результатов
 8. **Балансировка** — nginx для балансировки нагрузки
+
