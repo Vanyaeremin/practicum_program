@@ -13,7 +13,8 @@
 - **REST API** для загрузки видео и получения результатов
 
 ## Архитектура системы
-
+https://miro.com/app/board/uXjVGb0Gi0Y=/?share_link_id=863832925583
+<img width="1152" height="681" alt="image" src="https://github.com/user-attachments/assets/8ee8769d-54c9-462e-88da-910f005e06cf" />
 
 ## API Эндпоинты
 
@@ -430,4 +431,5 @@ curl "http://localhost:8080/api/status/all"
   ],
   "total": 1
 }
+
 ```
