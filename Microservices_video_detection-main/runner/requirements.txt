@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-httpx
-pymongo
-kafka-python
-aiokafka
-opencv-python-headless
-numpy
-minio

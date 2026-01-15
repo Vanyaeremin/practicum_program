@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-httpx
-pymongo
-minio
-python-multipart
