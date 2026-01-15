@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+pymongo
+opencv-python-headless
+numpy
+minio
+kafka-python
+aiokafka
+ultralytics
